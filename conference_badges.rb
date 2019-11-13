@@ -23,6 +23,4 @@ def printer(attendees)
   assign_rooms(attendees).each do |phrase|
     puts phrase
   end
-  
-  #puts "Hello, my name is #{attendee}."
 end
